@@ -79,7 +79,7 @@ if __name__ == '__main__':
         if args.method == 'fedavg':
             w_glob = fedavg(w_locals)
         elif args.method == 'krum':
-            w_glob, _ = krum(w_locals, compromised_num, args)
+            w_glob = krum(w_locals, compromised_num, args)
         elif args.method == 'trimmed_mean':
             w_glob = trimmed_mean(w_locals, compromised_num, args)
         elif args.method == 'fang':
