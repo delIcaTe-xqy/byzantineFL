@@ -1,4 +1,4 @@
-该项目为刘智远师兄论文eppfl方案的实验在原项目Security-Preserving Federated Learning via Byzantine-Sensitive Triplet Distance基础上的实验版本。包括以下几篇论文的复现：
+该项目为论文eppfl方案的实验在原项目Security-Preserving Federated Learning via Byzantine-Sensitive Triplet Distance基础上的实验版本。包括以下几篇论文的复现：
 Communication-Efficient Learning of Deep Networks from Decentralized Data ([McMahan, Brendan, et al. AISTATS 2017](https://proceedings.mlr.press/v54/mcmahan17a/mcmahan17a.pdf))
 Machine Learning with Adversaries: Byzantine Tolerant Gradient Descent ([Blanchard, Peva, et al. NIPS 2017](https://proceedings.neurips.cc/paper/2017/file/f4b9ec30ad9f68f89b29639786cb62ef-Paper.pdf))
 
